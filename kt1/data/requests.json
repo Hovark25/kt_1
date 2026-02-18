@@ -1,0 +1,4 @@
+[
+  { "priority": 1, "prefix": "app" },
+  { "priority": 0, "prefix": "b" }
+]
